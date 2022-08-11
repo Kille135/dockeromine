@@ -1,0 +1,6 @@
+[
+	{
+		"name": "nginxserver",
+		"imageUri": "registry.hub.docker.com/vlados135/vladnginx:main
+	}
+]
