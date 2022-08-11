@@ -1,6 +1,6 @@
 [
 	{
 		"name": "nginxserver",
-		"imageUri": "registry.hub.docker.com/vlados135/vladnginx:main
+		"imageUri": "public.ecr.aws/i9g5d7n0/dockervlad"
 	}
 ]
