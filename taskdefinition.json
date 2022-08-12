@@ -9,7 +9,7 @@
             "-c"
          ],
          "essential": true,
-         "image": "httpd:2.4",
+         "image": "dockervlad:main",
          "logConfiguration": { 
             "logDriver": "awslogs",
             "options": { 
@@ -29,7 +29,7 @@
       }
    ],
    "cpu": "256",
-   "executionRoleArn": "arn:aws:iam::012345678910:role/ecsTaskExecutionRole",
+   "executionRoleArn": "arn:aws:iam::559597476159:role/ECSTask",
    "family": "fargate-task-definition",
    "memory": "512",
    "networkMode": "awsvpc",
